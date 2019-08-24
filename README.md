@@ -1,6 +1,6 @@
-# Mocking and Asserting Python Exceptions with pytest - Code Example
+# Testing Python HTTP Exceptions With pytest - Code Example
 
-Code example for [Mocking and Asserting Python Exceptions with pytest](https://medium.com/@ryanbrookepayne/mocking-and-asserting-python-exceptions-2ce8e48f3efa) article.
+Code example for [Testing Python HTTP Exceptions With pytest](https://medium.com/@ryanbrookepayne/mocking-and-asserting-python-exceptions-2ce8e48f3efa) article.
 
 ## Setting Up
 
